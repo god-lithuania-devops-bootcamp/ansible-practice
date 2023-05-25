@@ -1,0 +1,6 @@
+version: 1.0.0 
+location: /Users/kavehsaleki/Documents/DevOps-projects/TechWorld/nodejs-app 
+linux_name: ksaleki
+user_home_dir: /home/{{linux_name}}
+
+docker_password: xxxxx
